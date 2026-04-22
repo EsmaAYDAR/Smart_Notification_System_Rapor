@@ -1,12 +1,12 @@
-# Smart Notification System(Akıllı Bildirim Sistemi)
+# Smart Notification System
 Nesne yönelimli programlama (OOP) prensipleri kullanılarak geliştirilmiş; modüler yapı, kalıtım ve çok biçimlilik içeren gelişmiş bir bildirim yönetim sistemi.
 
- Proje Tanımı ve Amaç
+# Proje Tanımı ve Amaç
 Bu proje, nesne yönelimli programlama (Object-Oriented Programming - OOP) yaklaşımı kullanılarak farklı kanallar (Email, SMS, Push) üzerinden bildirim gönderimini simüle etmek amacıyla geliştirilmiştir. Projenin temel odağı, yazılım dünyasındaki karmaşık sistemlerin nasıl daha modüler, sürdürülebilir ve esnek bir yapıya kavuşturulabileceğini göstermektir.
 
 Geleneksel yöntemlerde her bildirim türü için ayrı ayrı kod yazmak yerine, bu projede ortak bir temel sınıf üzerinden türetilen yapılar kullanılmıştır. Bu sayede sistem bileşenleri birbirinden bağımsız olarak geliştirilebilir ve tek bir merkezden (polymorphism yardımıyla) yönetilebilir hale getirilmiştir.
 
-Projenin Temel Hedefleri:
+# Projenin Temel Hedefleri:
 Bildirim yönetim süreçlerini nesne tabanlı modellemek.
 
 Modüler kod yapısı sayesinde "tak-çıkar" (pluggable) bir sistem oluşturmak.
@@ -15,7 +15,7 @@ Polymorphism ve Inheritance gibi ileri düzey OOP kavramlarını gerçek hayata 
 
 Hata yönetimi mekanizmaları ile sistem güvenilirliğini artırmak.
 
- Teknik Değerlendirme ve Rapor
+# Teknik Değerlendirme ve Rapor
 Hocamızın belirttiği kritik soruların teknik açıklamaları ve projedeki uygulama karşılıkları aşağıdadır:
 
 1. Polymorphism Nedir ve Inheritance’tan Farkı Nedir?
