@@ -1,4 +1,4 @@
-# Akıllı Bildirim Sistemi (Smart Notification System)
+# Smart Notification System(Akıllı Bildirim Sistemi)
 Nesne yönelimli programlama (OOP) prensipleri kullanılarak geliştirilmiş; modüler yapı, kalıtım ve çok biçimlilik içeren gelişmiş bir bildirim yönetim sistemi.
 
  Proje Tanımı ve Amaç
